@@ -1,2 +1,1 @@
 # POMA
-Active Learning Project
